@@ -4,7 +4,7 @@
 #include "GameManager.h"
 
 int main() {
-    GameManager c(50, 20);
+    GameManager c(40, 20);
     c.run();
 
     return 0;
